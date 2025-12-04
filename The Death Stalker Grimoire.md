@@ -1063,9 +1063,7 @@ This is a Daemon—a background spirit that holds the leash. It possesses the **
     Whisper to the repositories of *Filippo*. Type this command:
 
     ```
-
     sudo copr enable filippor/bazzite
-
     ```
 
 3.  **The Layering:**
@@ -1073,9 +1071,7 @@ This is a Daemon—a background spirit that holds the leash. It possesses the **
     You cannot simply write to the disk; you must layer the software onto the system's soul.
 
     ```
-
     sudo rpm-ostree install cyan-skillfish-governor
-
     ```
 
 4.  **The Little Death (Reboot):**
@@ -1089,9 +1085,7 @@ This is a Daemon—a background spirit that holds the leash. It possesses the **
     Once awoken, command the daemon to watch forever.
 
     ```
-
     sudo systemctl enable --now cyan-skillfish-governor
-
     ```
 
   
@@ -1115,9 +1109,7 @@ This is a Daemon—a background spirit that holds the leash. It possesses the **
     Call upon the *Exotic SoC* repository.
 
     ```
-
     sudo dnf copr enable @exotic-soc/oberon-governor
-
     ```
 
 3.  **The Installation:**
@@ -1125,9 +1117,7 @@ This is a Daemon—a background spirit that holds the leash. It possesses the **
     Install the warden of Oberon.
 
     ```
-
     sudo dnf install oberon-governor
-
     ```
 
 4.  **The Binding:**
@@ -1135,9 +1125,7 @@ This is a Daemon—a background spirit that holds the leash. It possesses the **
     Bind the daemon to the startup sequence.
 
     ```
-
     sudo systemctl enable --now oberon-governor
-
     ```
 
   
