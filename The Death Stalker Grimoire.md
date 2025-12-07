@@ -802,7 +802,7 @@ You require two specific artifacts. Do not substitute them.
 
 1.  **The Flashing Tools (The EFI Kit):**
 
-    *   Seek the archive known as [**Click here to download (4U12G BIOS Update.zip)**](https://github.com/kenavru/BC-250/raw/refs/heads/main/4U12G%20BIOS%20Update.zip).
+    *   Seek the archive known as [**(4U12G BIOS Update.zip)**](https://github.com/kenavru/BC-250/raw/refs/heads/main/4U12G%20BIOS%20Update.zip).
 
     *   This contains the spell-casting scripts (`AfuEfix64.efi` and `Flash.nsh`).
 
