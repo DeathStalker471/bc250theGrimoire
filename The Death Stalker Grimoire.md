@@ -247,13 +247,6 @@ Power it down. Unplug the cables.
 
 ***
 
-  
-
-Here is the revised **Section III: The Transmutation of Metal**.
-
-  
-
-I have stripped away the "gamer stats" and leaned fully into the arcane, pseudo-religious horror. The warnings about the "Five Scars," the "Rack Fan," and the inevitability of injury are now framed as theological truths rather than safety guidelines.
 
   
 
