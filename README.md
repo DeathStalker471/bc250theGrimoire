@@ -14,3 +14,5 @@ This is a fully functional technical guide disguised as a piece of grimdark/Love
 *   **The Governor:** Taming the voltage curves of the feral mining GPU.
 
 **Warning:** The instructions are real, but so is the danger. The prose is satire; the serrated aluminum fins are not.
+
+[Read The Iron Scripture of the Oberon](./The%20Death%20Stalker%20Grimoire.md)
