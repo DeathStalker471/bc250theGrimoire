@@ -550,13 +550,13 @@ The memory chips and the voltage regulators require contact with the heatsink. W
 
 **THE LAW OF TWO MILLIMETERS:**
 
-The distance between the chips and the heatsink is a divine constant: **2.0mm**.
+The distance between the chips and the heatsink is a divine constant: **1.5mm**.
 
-*   **The Heresy of the Void (1.5mm):** If you use 1.5mm, the contact is air. The memory will boil, and the screen will fill with artifacts of corruption.
+*   **The Heresy of the Void (1.5mm):** If you use 1mm, the contact is air. The memory will boil, and the screen will fill with artifacts of corruption.
 
-*   **The Heresy of the Crush (2.5mm):** If you use 2.5mm, the pads will prevent the heatsink from touching the Core. The APU will burn instantly upon boot.
+*   **The Heresy of the Crush (2.5mm):** If you use 2mm, the pads will prevent the heatsink from touching the Core. The APU will burn instantly upon boot.
 
-*   **The Law:** **2mm.** No more. No less.
+*   **The Law:** **1.5mm.** No more. No less.
 
   
 
@@ -1064,7 +1064,7 @@ This is a Daemon—a background spirit that holds the leash. It possesses the **
     You cannot simply write to the disk; you must layer the software onto the system's soul.
 
     ```
-    sudo rpm-ostree install cyan-skillfish-governor
+    sudo rpm-ostree install cyan-skillfish-governor-tt
     ```
 
 4.  **The Little Death (Reboot):**
@@ -1078,7 +1078,7 @@ This is a Daemon—a background spirit that holds the leash. It possesses the **
     Once awoken, command the daemon to watch forever.
 
     ```
-    sudo systemctl enable --now cyan-skillfish-governor
+    sudo systemctl enable --now cyan-skillfish-governor-tt
     ```
 
   
