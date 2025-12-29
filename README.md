@@ -26,7 +26,7 @@ If you handle the Oberon with fear, the BIOS will remain shut. If you handle it 
 
 **The Scrolls:**
 
-*   **[Read The Iron Scripture of the Oberon](./The%20Death%20Stalker%20Grimoire.md):** The primary step-by-step guide to the resurrection.
+*   **[Read The Iron Scripture of the Oberon](./The-Death-Stalker-Grimoire.md):** The primary step-by-step guide to the resurrection.
 *   **[The Grand Lexicon of the Oberon](./LoreGuide.md):** The definitive reference for terminology and mythology.
 *   **[The Codex of the Fallen Prince](./The-Codex-of-the-Fallen-Prince.md):** The itemized hardware master-list and technical anatomy.
 
